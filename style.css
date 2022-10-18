@@ -1,0 +1,58 @@
+body {
+    background-image: url("./images/index_image.png");
+    background-attachment: fixed;
+}
+
+.stroke {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: aqua;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+.versions {
+    text-align: center;
+    font-size: 120px;
+    font-weight: normal;
+}
+
+.underline {
+    border-bottom: solid 12px skyblue;
+}
+
+.hutomoji {
+    color: red;
+    border-bottom: solid 12px skyblue;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.komejirusi{
+    color: red;
+    font-size: 70px;
+}
+
+.runtime-64{
+    font-size: 50px;
+    color: purple;
+    text-align: center;
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: black;
+    font-weight: bolder;
+}
+
+.runtime-32{
+    font-size: 50px;
+    color: purple;
+    text-align: center;
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: black;
+    font-weight: bolder;
+}
