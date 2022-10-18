@@ -1,0 +1,25 @@
+body {
+    background-image: url("./images/ver_image.png")
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+}
+
+.back {
+    text-align: center;
+    font-size: 120px;
+}
+
+.ver_color_1 {
+    color: red;
+    text-align: center;
+    font-size: 60px;
+}
+
+.ver_color_2 {
+    color: brown;
+    text-align: center;
+    font-size: 40px;
+}
